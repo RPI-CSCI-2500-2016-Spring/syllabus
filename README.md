@@ -108,9 +108,9 @@ implementation. We typically divide the correctness points over key
 functions working. For example, reading - worth 10 points,
 writing -- worth 10 points as file correctly, and then doing the
 calculation correctly -- worth 65 points. Note that programs that
-either don't compile or generate a ``core dump'' typically get no more
-than 20 points of the 85. Thus, your max score for a ``properly
-commented'' program that fails in some fundamental way is only 35
+either don't compile or generate a `core dump` typically get no more
+than 20 points of the 85. Thus, your max score for a "properly
+commented" program that fails in some fundamental way is only 35
 points even if you spent 100 hours of time on it.  Non-programming
 assignments/homeworks are graded on a per-problems basis. Typically 5
 problems will be given and each is worth 20 points.
