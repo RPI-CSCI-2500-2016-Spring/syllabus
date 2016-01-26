@@ -39,8 +39,8 @@ include, but are not exclusively limited to:
 We have two Graduate TAs assigned to our class.
 All office hours are typically held in the Amos Eaton, room 217, unless otherwise specified by the TA.
 
-* Nikhil Mehta (mehtan4 AT rpi.edu): Office Hours: TBD
-* Yu Chen (cheny39 AT rpi.edu): Office Hours: TBD
+* Nikhil Mehta (mehtan4 AT rpi.edu): Office Hours: Amos Eaton 217, Wednesday, 4 p.m. to 5 p.m. and Thursday, 4 p.m. to 5 p.m.
+* Yu Chen (cheny39 AT rpi.edu): Office Hours: Amos Eaton 217, Friday, 5 p.m. to 7 p.m.
 
 ### Schedule of Topics
 
