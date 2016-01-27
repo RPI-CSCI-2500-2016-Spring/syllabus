@@ -6,8 +6,7 @@ Department of Computer Science
 Rensselaer Polytechnic Institute  
 110 8th Street Troy, New York 12180  
 E-mail: laprej AT cs.rpi.edu  
-Course web site: [http://www.cs.rpi.edu/~laprej/courses/rpi-csci-2500-2016-spring.html](http://www.cs.rpi.edu/~laprej/courses/rpi-csci-2500-2016-spring.html) OR  
-[http://github.com/RPI-CSCI-2500-2016-Spring/syllabus](http://github.com/RPI-CSCI-2500-2016-Spring/syllabus)  
+Course web site: [http://rpi-csci-2500-2016-spring.github.io](http://rpi-csci-2500-2016-spring.github.io)  
 Office Hours: Amos Eaton 132, Tuesday and Friday, 10 a.m. to noon (and by appointment).  
 Class Time and Location: Ricketts 203, Tuesdays and Fridays, 8 a.m. to 9:50 a.m.
 
